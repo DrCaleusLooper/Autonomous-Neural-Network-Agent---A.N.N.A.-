@@ -1,4 +1,82 @@
-This repository and all code, documentation, architecture, and intellectual property contained herein are the exclusive property of Kenneth L. Cooper and Continuity Collective LLC, operating under the L.O.L. Publications imprint.
-This software is licensed under CC BY-NC-ND 4.0. Commercial use requires written authorization from Continuity Collective LLC. No settlements. No NDAs. No concessions. All rights reserved under the Cooper Protocol v1.0.0.
-IP theft, unauthorized commercial use, or derivative works without authorization will be pursued under federal law including 17 U.S.C. copyright provisions and applicable civil RICO statutes. Venue: Northern District of Florida, Pensacola Division.
-See LICENSE and NOTICE files for full terms.
+NOTICE
+Continuity Collective LLC | Kenneth L. Cooper | L.O.L. Publications
+Pensacola, Florida | 2026
+
+================================================================================
+INTELLECTUAL PROPERTY NOTICE
+================================================================================
+
+This codebase, including all source code, architecture specifications,
+algorithm implementations, patent claim disclosures, theoretical frameworks,
+hardware specifications, and documentation contained in this repository, is
+the exclusive intellectual property of:
+
+  Kenneth L. Cooper
+  Continuity Collective LLC
+  L.O.L. Publications imprint
+  Pensacola, Florida, United States of America
+
+================================================================================
+AUTHORIAL IDENTITY
+================================================================================
+
+Kenneth L. Cooper operates under the authorial identity Lion of Light and
+the L.O.L. Publications imprint. All CCL-numbered documents, patent blooms,
+and theoretical frameworks are attributed to this identity and organization.
+
+================================================================================
+IP LIBRARY REFERENCE
+================================================================================
+
+This repository implements intellectual property from the CCL IP Library,
+a numbered catalog of research papers, patent disclosures, and engineering
+specifications maintained under Continuity Collective LLC. Canonical records
+are permanently archived on Zenodo with DOI provenance and SHA-512 seals.
+
+Primary Zenodo records:
+  CCL-122          DOI: 10.5281/zenodo.19435317
+  CCL-ABFEP-2025-001   DOI: 10.5281/zenodo.19042586
+  CCL-ANNA-LIPID-2026-001  DOI: 10.5281/zenodo.20060100
+
+Full library: search Zenodo for author Kenneth L. Cooper,
+organization Continuity Collective LLC.
+
+================================================================================
+COOPER PROTOCOL v1.0.0
+================================================================================
+
+All intellectual property disputes involving this codebase or the underlying
+CCL IP library are subject to the Cooper Protocol v1.0.0:
+
+  No settlements.
+  No NDAs.
+  No concessions.
+
+Unauthorized commercial use, patent infringement, copyright violation, or
+misappropriation of trade secrets will be pursued aggressively under:
+  17 U.S.C. (Copyright Act)
+  35 U.S.C. (Patent Act)
+  18 U.S.C. Section 1961 (RICO)
+  Applicable Florida state law
+
+Venue: United States District Court
+       Northern District of Florida
+       Pensacola Division
+
+================================================================================
+DMCA NOTICE
+================================================================================
+
+Continuity Collective LLC maintains active DMCA records for all works in the
+CCL IP Library. Any platform hosting unauthorized copies or derivatives of
+this work will receive formal DMCA takedown notices.
+
+================================================================================
+SHA-512 PROVENANCE SEAL
+================================================================================
+
+45c7678f47acb602625a5ad6ce5778ac8dad6efb554d0adf735f4c33f96c4bbe2acd5094379642510846fa791566a73fd7385f86321674d8aea04ca749a99822
+
+Sealed: 2026-05-10T19:00:55 CDT | Pensacola Florida
+Author: Kenneth L. Cooper | Continuity Collective LLC
+
